@@ -1,0 +1,12 @@
+    .banner {
+        filter: brightness(60%)
+    }
+    
+    .active img {
+        width: 1300px;
+        height: 700px;
+    }
+    
+    .fa-star {
+        color: gold;
+    }
